@@ -8,3 +8,9 @@ forks : a clone of repository from another GitHub account to my GitHub account
 clones : a clone of repository from an account on GitHub(my account or an other account) to my own computer
 branches : lable for commit in a repository (locally or on GitHub)
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+to see if there are change in GitHub repository with a collaborator or form me using GitHub editor
+
+
+
